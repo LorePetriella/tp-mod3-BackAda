@@ -1,0 +1,16 @@
+{
+  "name": "altogrupo",
+  "version": "1.0.0",
+  "description": "1) Crear un archivo books.js, el cual va a tener las siguientes funciones que interactúan con el archivo .json para leer la información almacenada:\r     - getAll --> Debe obtener todos los libros guardados en la base de datos.\r     - getById --> Debe obtener el libro con el correspondiente id. \r     - getByName --> Debe obtener el libro con el correspondiente nombre. \r     - getByAuthor --> Debe obtener el libro con el correspondiente nombre de autor. \r     - create --> Debe crear el libro envíado por el cliente en la base de datos. (el id lo debemos crear nosotros con el módulo UUID)\r     - deleteById --> Debe eliminar el libro que corresponda con el ID enviado por el cliente.",
+  "main": "books.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "The best of the best",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}

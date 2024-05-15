@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "name": "Cien años de soledad",
+        "author": "Gabriel García Márquez",
+        "sold": 50000000,
+        "tags": [
+            "realismo mágico",
+            "ficción latinoamericana",
+            "clásico"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "El Señor de los Anillos",
+        "author": "J.R.R. Tolkien",
+        "sold": 150000000,
+        "tags": [
+            "fantasía",
+            "épica",
+            "aventura"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "1984",
+        "author": "George Orwell",
+        "sold": 40000000,
+        "tags": [
+            "ciencia ficción",
+            "distopía",
+            "política"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Orgullo y prejuicio",
+        "author": "Jane Austen",
+        "sold": 20000000,
+        "tags": [
+            "romance",
+            "clásico",
+            "sociedad inglesa"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "El guardián entre el centeno",
+        "author": "J.D. Salinger",
+        "sold": 60000000,
+        "tags": [
+            "adolescencia",
+            "rebeldía",
+            "coming-of-age"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "El Principito",
+        "author": "Antoine de Saint-Exupéry",
+        "sold": 80000000,
+        "tags": [
+            "cuento infantil",
+            "filosofía",
+            "fantasía"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Cumbres borrascosas",
+        "author": "Emily Brontë",
+        "sold": 30000000,
+        "tags": [
+            "romance",
+            "drama",
+            "gótico"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Loreeeee",
+        "author": "Hermann Hesse",
+        "sold": 5,
+        "tags": [
+            "novela filosófica",
+            "psicología",
+            "bildungsroman"
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Lolita",
+        "author": "Vladimir Nabokov",
+        "sold": 40000000,
+        "tags": [
+            "novela controversial",
+            "romance prohibido",
+            "crítica social"
+        ]
+    },
+    {
+        "id": "10",
+        "name": "El extranjero",
+        "author": "Albert Camus",
+        "sold": 55000000,
+        "tags": [
+            "novela existencialista",
+            "absurdismo",
+            "alienación"
+        ]
+    },
+    {
+        "id": "13",
+        "name": "El senor de los anillos",
+        "author": "El senor de los anillos",
+        "sold": 130,
+        "tags": [
+            "sarasa",
+            "anillos"
+        ]
+    }
+]
